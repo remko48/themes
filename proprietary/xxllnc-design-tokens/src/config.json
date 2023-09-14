@@ -1,8 +1,8 @@
 {
-  "fullName": "Gemeente Leiden",
-  "name": "Leiden",
-  "prefix": "leiden",
-  "npm": "@nl-design-system-unstable/leiden-design-tokens",
+  "fullName": "xxllnc",
+  "name": "xxllnc",
+  "prefix": "xxllnc",
+  "npm": "@nl-design-system-unstable/xxllnc-design-tokens",
   "stories": [
     "react-utrecht-alert--default",
     "react-utrecht-alert--warning",

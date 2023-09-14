@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0-alpha.114",
+  "version": "1.0.0-alpha.1",
   "author": "Community for NL Design System",
-  "description": "NL Design System design tokens for Gemeente Leiden",
-  "website": "https://gemeente.leiden.nl/",
+  "description": "NL Design System design tokens for xxllnc",
+  "website": "https://www.xxllnc.nl/",
   "keywords": [
     "nl-design-system",
     "conduction"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/leiden-design-tokens",
+  "name": "@nl-design-system-unstable/xxllnc-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -27,7 +27,6 @@
     "build:style-dictionary": "style-dictionary build --config ./style-dictionary.config.js"
   },
   "devDependencies": {
-    "@fontsource/open-sans": "5.0.12",
     "@nl-design-system-unstable/theme-toolkit": "workspace:*",
     "chokidar-cli": "3.0.0",
     "npm-run-all": "4.1.5",
