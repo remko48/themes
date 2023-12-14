@@ -1,9 +1,11 @@
-publiccodeYmlVersion: "0.1"
+publiccodeYmlVersion: "0.2"
 name: "@nl-design-system-unstable/dinkelland-design-tokens"
 url: https://github.com/nl-design-system/themes/tree/main/proprietary/dinkelland-design-tokens
 platforms:
   - web
 releaseDate: 2023-09-19
+categories:
+- it-development
 developmentStatus: development
 description:
   en:
