@@ -1,4 +1,4 @@
-publiccodeYmlVersion: "0.2"
+publiccodeYmlVersion: "0.3"
 name: "@nl-design-system-unstable/dinkelland-design-tokens"
 url: https://github.com/nl-design-system/themes
 platforms:
@@ -42,7 +42,7 @@ maintenance:
       website: https://www.conduction.nl
   contacts:
     - name: Ruben van der Linde
-      email: info\x64conduction.nl
+      email: info@conduction.nl
       phone: 085 303 6840
       affiliation: Conduction
 localisation:
